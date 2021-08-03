@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "698fa9ff-b4c4-4ae0-8bd6-8596da0f9d2b",
+		"name": "foobarqix",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Compute",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/compute?value=5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"compute"
+					],
+					"query": [
+						{
+							"key": "value",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -54,6 +54,6 @@ We have a new business request: we must keep a trace of 0 in numbers, each 0 mus
 
 #### API Testing
 
-- Import the `Teads.postman_collection.json` which is under postman folder of the project in postman
+- Import the `foobarqix.postman_collection.json` which is under postman folder of the project in postman
 
 
